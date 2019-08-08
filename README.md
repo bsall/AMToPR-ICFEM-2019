@@ -1,7 +1,9 @@
 # A Mechanized Theory of Program Refinement
 
 This site is the companion repository to the paper "A Mechanized Theory of Program Refinement".
-This work uses Coq 8.8.1. To build the project, execute: *make -f CoqMakefile*
+This work uses Coq 8.8.1. To build the project, run the command *make -f CoqMakefile*
+
+We recommand the installation of [Proof General](https://proofgeneral.github.io/) and [company coq](https://github.com/cpitclaudel/company-coq).
 
 The source files are organized in two parts, the [theory](./src/theory) files and the [examples](./src/examples).
 
