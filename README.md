@@ -43,9 +43,7 @@ design rules (Theorem 1 in the paper) are proved in this file.
 The [examples](./src/examples) directory illustrate how our formalization can be used in program verification
 and in program design. The files in the [pred](./src/examples/pred) and [wpr](./src/examples/wpr) directories
 are examples of program verification using the predicative semantics or the weakest prespecification calculus.
-The files in the [design](./src/examples/design) directory are examples of program designs. In particular, The 
-design steps for a square root algorithm are presented in separate files. Note that the whole program design
-the design presented in the paper can be found in [Sqrt.v](./src/examples/design/Sqrt.v).
+The files in the [design](./src/examples/design) directory are examples of program designs. The whole program design presented in the paper can be found in [Sqrt.v](./src/examples/design/Sqrt.v).
 
 
 
